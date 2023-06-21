@@ -13,3 +13,7 @@ additional features [refer to documentation](https://parceljs.org/).
     
  [![image](https://github.com/Horobird/Country_Search/blob/main/2023-06-21_12h41_27.png)]( https://horobird.github.io/Country_Search)
 
+  - If more than 10 countries are found, the program asks to narrow the search by entering new letters.
+_______
+    
+
