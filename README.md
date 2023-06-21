@@ -6,7 +6,7 @@ additional features [refer to documentation](https://parceljs.org/).
 
 
 
-[![image](https://github.com/Horobird/Country_Search/assets/28702124/a1dd47b5-16b6-4c9f-add8-e2f13f570e26)]( https://horobird.github.io/Country_Search)
+[![image](https://github.com/Horobird/Country_Search/blob/main/2023-06-21_11h49_22.png)]( https://horobird.github.io/Country_Search)
 
 
 
