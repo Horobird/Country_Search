@@ -1,7 +1,9 @@
-# Parcel template
+# Country_Search
+_____
+** This is a small project to showcase your JavaScript skills. It was created with Parcel. For dating and setting
+additional features [refer to documentation](https://parceljs.org/).
+** The project implemented the capabilities of the API site 
 
-Этот проект был создан при помощи Parcel. Для знакомства и настройки
-дополнительных возможностей [обратись к документации](https://parceljs.org/).
 
 ## Подготовка нового проекта
 
