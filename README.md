@@ -1,8 +1,8 @@
 # [Country_Search](https://horobird.github.io/Country_Search)
 _____
-**:small_orange_diamond: This is a small project to showcase your JavaScript skills. It was created with Parcel. For dating and setting
+  :small_orange_diamond: This is a small project to showcase your JavaScript skills. It was created with Parcel. For dating and setting
 additional features [refer to documentation](https://parceljs.org/).     
-**:small_orange_diamond: The project implemented the capabilities of the API  [https://restcountries.com](https://restcountries.com).
+  :small_orange_diamond: The project implemented the capabilities of the API  [https://restcountries.com](https://restcountries.com).
 
   :small_orange_diamond:As you enter a letter, the program searches for countries.       
   - If there are more than one countries found, then the flag and the official name of the country are displayed.
